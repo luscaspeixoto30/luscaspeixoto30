@@ -1,16 +1,26 @@
-## Hi there 👋
+# ██╗     ██╗   ██╗ ██████╗ █████╗ ███████╗
+# ██║     ██║   ██║██╔════╝██╔══██╗██╔════╝
+# ██║     ██║   ██║██║     ███████║███████╗
+# ██║     ██║   ██║██║     ██╔══██║╚════██║
+# ███████╗╚██████╔╝╚██████╗██║  ██║███████║
+# ╚══════╝ ╚═════╝  ╚═════╝╚═╝  ╚═╝╚══════╝
 
-<!--
-**luscaspeixoto30/luscaspeixoto30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```bash
+> booting developer_profile.exe...
+> loading skills...
+> establishing secure connection...
+> access granted ✔
+```
 
-Here are some ideas to get you started:
+## 👨‍💻 root@lucas:~# whoami
+```bash
+Full Stack Developer | Laravel | PHP | Java | Python | SaaS Builder
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ root@lucas:~# cat skills.txt
+```bash
+Backend     :: PHP | Laravel | REST API | Java
+Database    :: MySQL | PostgreSQL | MongoDB
+Frontend    :: HTML | CSS | JavaScript
+DevOps      :: Docker | Git | Linux
+```
