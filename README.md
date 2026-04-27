@@ -24,3 +24,5 @@ Database    :: MySQL | PostgreSQL | MongoDB
 Frontend    :: HTML | CSS | JavaScript
 DevOps      :: Docker | Git | Linux
 ```
+
+![Snake animation](https://github.com/SEUUSUARIO/SEUUSUARIO/blob/output/github-contribution-grid-snake.svg)
