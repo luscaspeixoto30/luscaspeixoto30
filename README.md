@@ -1,28 +1,6 @@
-# ██╗     ██╗   ██╗ ██████╗ █████╗ ███████╗
-# ██║     ██║   ██║██╔════╝██╔══██╗██╔════╝
-# ██║     ██║   ██║██║     ███████║███████╗
-# ██║     ██║   ██║██║     ██╔══██║╚════██║
-# ███████╗╚██████╔╝╚██████╗██║  ██║███████║
-# ╚══════╝ ╚═════╝  ╚═════╝╚═╝  ╚═╝╚══════╝
+<h1 align="center">👨‍💻 LUCAS PEIXOTO</h1>
+<h3 align="center">🚀 Full Stack Developer | Backend | SaaS Builder</h3>
 
-```bash
-> booting developer_profile.exe...
-> loading skills...
-> establishing secure connection...
-> access granted ✔
-```
-
-## 👨‍💻 root@lucas:~# whoami
-```bash
-Full Stack Developer | Laravel | PHP | Java | Python | SaaS Builder
-```
-
-## ⚡ root@lucas:~# cat skills.txt
-```bash
-Backend     :: PHP | Laravel | REST API | Java
-Database    :: MySQL | PostgreSQL | MongoDB
-Frontend    :: HTML | CSS | JavaScript
-DevOps      :: Docker | Git | Linux
-```
-
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=root%40lucas%3A~%23+booting+developer_profile.exe;Loading+skills...;Secure+connection+established;Access+Granted+✔">
+</p>
