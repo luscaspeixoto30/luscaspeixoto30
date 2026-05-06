@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PHP-Backend-blue">
+  <img src="https://img.shields.io/badge/Python-Backend-blue">
   <img src="https://img.shields.io/badge/Laravel-Framework-red">
   <img src="https://img.shields.io/badge/Java-Developer-orange">
 </p>
