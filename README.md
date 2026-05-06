@@ -7,6 +7,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-Backend-blue">
-  <img src="https://img.shields.io/badge/Fast-API-Framework-red">
+  <img src="https://img.shields.io/badge/FastAPI-Framework-red">
   <img src="https://img.shields.io/badge/Java-Developer-orange">
 </p>
